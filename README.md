@@ -1,3 +1,6 @@
 # Exercise Tracker
+ON-PROGRESS
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+Built using Node.js and MongoDB for back-end and database.
+
+Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
